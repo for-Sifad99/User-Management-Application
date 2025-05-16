@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Users Management Application
 
 This is a full-stack users management application with a **React.js frontend** and an **Express.js backend**.  
@@ -12,3 +13,6 @@ Client and server are organized in two separate folders within this repo.
 ```bash
 git clone https://github.com/your-username/users-management-appliction.git
 cd users-management-application
+=======
+# User-Management-Application
+>>>>>>> da37177199256f4a28dd5dec688f4b1970a49daa
